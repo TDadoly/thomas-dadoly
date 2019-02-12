@@ -1,0 +1,12 @@
+To reference Software Carpentry in publications, please cite both of the following:
+
+Thomas Dadoly: "Tutorial: Learning Git". February 2/12/2019
+
+
+@article{wilson-software-carpentry-2006,
+    author =  {THomas Dadoly},
+    title =   {Learning Git},
+    journal = {Comp Sci 203},
+    month =   {February},
+    year =    {2019},
+}
